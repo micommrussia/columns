@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="250px" height="250px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 250 250"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
+    .fil6 {fill:url(#id2)}
+    .fil2 {fill:url(#id3)}
+    .fil4 {fill:url(#id4)}
+    .fil3 {fill:url(#id5)}
+    .fil5 {fill:url(#id6)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="90.34" y1="75.25" x2="159.66" y2="174.75">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F5F6FA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DCDDE1"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="45.27" y1="-61.54" x2="204.73" y2="311.54">
+   <stop offset="0" style="stop-opacity:1; stop-color:#55EFC4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00B894"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="139.55" y1="113.66" x2="148.57" y2="122.69">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00A8FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0097E6"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="75.91" y1="103.13" x2="106" y2="133.22">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7F8FA6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#718093"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="169.33" y1="113.66" x2="178.36" y2="122.69">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E84118"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C23616"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="154.44" y1="98.77" x2="163.47" y2="107.79">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FBC531"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E1B12C"/>
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="154.44" y1="128.56" x2="163.47" y2="137.58">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4CD137"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#44BD32"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2220674816192">
+   <path class="fil0" d="M125 0c69.04,0 125,55.96 125,125 0,69.04 -55.96,125 -125,125 -69.04,0 -125,-55.96 -125,-125 0,-69.04 55.96,-125 125,-125z"/>
+   <path class="fil1" d="M125 149.06c-37.5,0 -34.71,28.19 -58.95,28.19 -25.43,0 -19.88,-87.26 11.28,-101.84 19.71,-9.21 22.77,8.44 47.67,8.44 24.9,0 27.96,-17.65 47.67,-8.44 31.16,14.58 36.71,101.84 11.28,101.84 -24.24,0 -21.45,-28.19 -58.95,-28.19z"/>
+   <path class="fil2" d="M86.7 101.15c0,-2.35 1.91,-4.25 4.26,-4.25 2.35,0 4.25,1.9 4.25,4.25l0 12.77 12.77 0c2.35,0 4.26,1.9 4.26,4.25 0,2.35 -1.91,4.26 -4.26,4.26l-12.77 0 0 12.77c0,2.35 -1.9,4.25 -4.25,4.25 -2.35,0 -4.26,-1.9 -4.26,-4.25l0 -12.77 -12.76 0c-2.35,0 -4.26,-1.91 -4.26,-4.26 0,-2.35 1.91,-4.25 4.26,-4.25l12.76 0 0 -12.77z"/>
+   <path class="fil3" d="M158.95 96.9c3.53,0 6.39,2.85 6.39,6.38 0,3.53 -2.86,6.38 -6.39,6.38 -3.52,0 -6.38,-2.85 -6.38,-6.38 0,-3.53 2.86,-6.38 6.38,-6.38z"/>
+   <path class="fil4" d="M173.85 111.79c3.52,0 6.38,2.86 6.38,6.38 0,3.53 -2.86,6.39 -6.38,6.39 -3.53,0 -6.39,-2.86 -6.39,-6.39 0,-3.52 2.86,-6.38 6.39,-6.38z"/>
+   <path class="fil5" d="M158.95 126.69c3.53,0 6.39,2.85 6.39,6.38 0,3.52 -2.86,6.38 -6.39,6.38 -3.52,0 -6.38,-2.86 -6.38,-6.38 0,-3.53 2.86,-6.38 6.38,-6.38z"/>
+   <path class="fil6" d="M144.06 111.79c3.52,0 6.38,2.86 6.38,6.38 0,3.53 -2.86,6.39 -6.38,6.39 -3.53,0 -6.38,-2.86 -6.38,-6.39 0,-3.52 2.85,-6.38 6.38,-6.38z"/>
+  </g>
+ </g>
+</svg>
